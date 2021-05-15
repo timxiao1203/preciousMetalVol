@@ -24,6 +24,8 @@ Therefore, precious metal volatility smile is represented by three entities: at-
 
 The ATM volatilities quoted by brokers can have various interpretations depending on currency pairs. Here we introduced the most popular one used by the precious metal brokers. The ATM volatility is the value from the smile curve where the strike is such that the delta of the call equals, in absolute value, that of the put (this strike is called ATM “straddle” or ATM “delta neutral”).
 
-Reference:
+References:
 
-https://finpricing.com/lib/CmcPreciousMetalVol.html
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cmrm11/cmpreciousmetalvol/downloads/CmcPreciousMetalVol-15.pdf
