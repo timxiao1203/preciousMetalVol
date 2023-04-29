@@ -27,5 +27,3 @@ The ATM volatilities quoted by brokers can have various interpretations dependin
 References:
 
 https://finpricing.com/lib/EqVariance.html
-
-https://bitbucket.org/cmrm11/cmpreciousmetalvol/downloads/CmcPreciousMetalVol-15.pdf
